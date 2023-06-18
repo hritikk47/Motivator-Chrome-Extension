@@ -1,0 +1,31 @@
+body {
+    font-family: "Copperplate", Arial, sans-serif;
+    background-color: #343636;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1#quote {
+    font-size: 24px;
+    font-weight: bold;
+    color: #d2d5d1;
+    margin-bottom: 10px;
+  }
+  
+  p#author {
+    font-size: 18px;
+    color: #000000;
+    margin-top: 0;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    border: 2px solid #d2d5d1;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
